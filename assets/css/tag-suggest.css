@@ -1,0 +1,7 @@
+.tssearch {margin-top: 20px;}
+.tssearch img{margin-left: 10px;display: none;}
+#tsresults ul{padding: 0;margin-top:25px;}
+#tsresults ul li{display: inline-block;line-height: 30px;}
+#tsresults ul li a{background-color: #636e72;color: #fff;border-radius: 4px;padding: 5px 10px;margin:0px 3px;text-decoration: none;}
+#tsresults ul li.selected a{background-color: #00b894;}
+#tsresults ul li a:hover{background-color: #00b894;transition: 0.5s;}
